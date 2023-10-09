@@ -17,7 +17,9 @@ Créer un nouveau projet Web.
 
 L’objectif est de reproduire cet écran de connexion en HTML/CSS
 
-![Screenshot](screenshot_01.png)
+<p align="center">
+  <img src="screenshot_01.png" alt="Screenshot">
+</p>
 
 ## Etape 1 - La structure
 
@@ -51,7 +53,9 @@ Placez les éléments importants sans style, tels que :
 
 Vous devrez avoir un résultat proche de cela :
 
-![Screenshot](screenshot_02.png)
+<p align="center">
+  <img src="screenshot_02.png" alt="Screenshot">
+</p>
 
 ## Etape 2 - Préparation du CSS
 
@@ -61,7 +65,9 @@ Préparez les **classes CSS** nécessaires pour **aligner les textes au centre**
 
 Ainsi, certains éléments passeront automatiquement à la ligne et vous obtiendrez un résultat similaire à celui-ci
 
-![Screenshot](screenshot_03.png)
+<p align="center">
+  <img src="screenshot_03.png" alt="Screenshot">
+</p>
 
 ## Etape 3 - Finaliser le CSS
 
