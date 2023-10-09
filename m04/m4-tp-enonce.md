@@ -43,9 +43,9 @@ Placez les éléments importants sans style, tels que :
 - Un paragraphe qui va contenir le texte d'accueil
 - Le champ input **email**
 - Le champ input **mot de passe**
-- Un lien hypertext vide pour le **Mot de passe oublié ?**
+- Un lien hypertexte vide pour le **Mot de passe oublié ?**
 - Le bouton de connexion
-- Le dernier paragraphe restant (S'inscrire sera aussi un lien hypertext)
+- Le dernier paragraphe restant (S'inscrire sera aussi un lien hypertexte)
 
 > **Note:** Les éléments ne vont pas nécessairement **s'afficher ligne par ligne** pour le moment
 
