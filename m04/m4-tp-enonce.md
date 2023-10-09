@@ -55,9 +55,11 @@ Vous devrez avoir un résultat proche de cela :
 
 ## Etape 2 - Préparation du CSS
 
-Préparer les **classes css** nécessaires pour **aligner les textes au centre**  et modifier la largeur des **champs de saisies et bouton** pour qu'ils prennent tout la place sur l'écran
+> ⚠️ **Important:** Toutes **nos classes css** seront préfixées  de `tp-`
 
-Ainsi, certains éléments passeront automatiquement à la ligne, et vous obtiendrez un résultat proche de celui-ci
+Préparez les **classes CSS** nécessaires pour **aligner les textes au centre** et modifiez la largeur des **champs de saisie et des boutons** afin qu'ils occupent toute la largeur de l'écran.
+
+Ainsi, certains éléments passeront automatiquement à la ligne et vous obtiendrez un résultat similaire à celui-ci
 
 ![Screenshot](screenshot_03.png)
 
@@ -73,3 +75,12 @@ Utiliser aussi l'attribut `background-size : cover;` essayer d'adapter l'image �
 
 - Par défaut, les champs de saisie n'auront pas de couleur de fond
 - Si vous souhaitez gérer correctement les espacements entre les éléments, je vous conseille **d'encapsuler ces éléments** dans un **div** qui contiendra un **padding**
+
+Exemple de champ encapsulé pour gérer l'espacement **sans margin** d'un champ :
+
+```html
+<!-- Champ email -->
+<div class="tp-form-block">
+    <input class="tp-input" type="text" placeholder="Email">
+</div>
+```
