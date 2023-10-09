@@ -37,7 +37,7 @@ Votre fichier HTML va contenir au moins ces élèments par défaut (vous pouvez 
 </html>
 ```
 
-Placer les élèments importants sans style tel que :
+Placez les éléments importants sans style, tels que :
 
 - Le titre H1 "Connexion au site"
 - Un paragraphe qui va contenir le texte d'accueil
@@ -47,7 +47,7 @@ Placer les élèments importants sans style tel que :
 - Le bouton de connexion
 - Le dernier paragraphe restant (S'inscrire sera aussi un lien hypertext)
 
-> **Note:** Les élèments ne vont pas nécessairement **s'afficher ligne par ligne** pour l'instant
+> **Note:** Les éléments ne vont pas nécessairement **s'afficher ligne par ligne** pour le moment
 
 Vous devrez avoir un résultat proche de cela :
 
