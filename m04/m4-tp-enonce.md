@@ -69,6 +69,8 @@ Placer une image de fond dans le body graçe à l'attribut **css** `background` 
 
 Utiliser aussi l'attribut `background-size : cover;` essayer d'adapter l'image à la taille de l'écran.
 
+Dans le dossier « ressources » de l'énoncé, vous trouverez l'image de fond
+
 > **Note:** Si l'image n'est pas parfaitement adaptée, ne perdez pas de temps sur ce petit détail. Vous reviendrez dessus une fois tout terminé.
 
 ### Quelques astuces/informations 
