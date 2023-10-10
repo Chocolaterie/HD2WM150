@@ -1,4 +1,4 @@
-# Construire un écran de connexion (partie 1)
+# Construire un écran d'inscription
 
 TP du module 5 – HTML les liens
 
@@ -14,6 +14,13 @@ L’objectif est de reproduire cet écran d'inscription en HTML/CSS
 
 <p align="center">
   <img src="screenshot_01.png" alt="Screenshot">
+</p>
+
+
+Pour la redirection sur la page d'inscription, elle aura lieu grace à ce lien hypertexte :
+
+<p align="center">
+  <img src="screenshot_02.png" alt="Screenshot">
 </p>
 
 ### Quelques astuces/informations 
