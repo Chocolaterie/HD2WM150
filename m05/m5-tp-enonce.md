@@ -32,11 +32,21 @@ Utiliser les fieldset et legend pour afficher un intitulé encadré
 
 ```html
 <fieldset>
-    <legend>Ma Légende</legend>
+    <legend>Identifiants</legend>
 </fieldset>
 ```
 
+<p align="center">
+  <img src="screenshot_03.png" alt="Screenshot">
+</p>
+
+
 Le code CSS du fieldset changera les bords et le texte en **blanc** et cachera tout les bords **excepté** le bord du haut
+
+<p align="center">
+  <img src="screenshot_04.png" alt="Screenshot">
+</p>
+
 
 #### Les options (radio buttons)
 
