@@ -39,7 +39,7 @@ Home > Login
 Home > Inscription
 
 <p align="center">
-  <img src="screenshot_03.png" alt="Screenshot">
+  <img src="screenshot_04.png" alt="Screenshot">
 </p>
 
 
@@ -48,5 +48,25 @@ Home > Inscription
 Home > Récuperation de mot de passe
 
 <p align="center">
-  <img src="screenshot_03.png" alt="Screenshot">
+  <img src="screenshot_05.png" alt="Screenshot">
 </p>
+
+
+## Niveau de difficulté : 1
+
+Faire au moins les pages :
+-  **Récupération de mot de passe**
+-  **Inscription**
+
+> ⚠️ **Important:** Pour les 3 radios button (options), utilisez les flex.
+> 
+> Donc chaque option seront encapsulées d'un div et lces dîtes div eux même encapsulés d'un autre div
+
+Et finaliser les liens dans la page **Connexion** qui redirige sur les pages correspondantes
+
+- Mot de pass oublié -> La page **Récupération de mot de passe**
+- S'inscrire ? -> La page **Inscription**
+
+## Niveau de difficulté : Final
+
+Faire tout le reste (page d'accueil et fil d'arianne)
