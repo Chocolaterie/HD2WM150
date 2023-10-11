@@ -4,6 +4,10 @@ TP du module Extra – JS + Inclure un Waveform
 
 **Durée Estimée : 1-2h**
 
+## Niveau de difficulté : Hardcore
+
+Ce TP est trés difficile, bon courage !
+
 ## Enonce
 
 Faire le code JS nécessaire pour creer la liste des piste audios à partie d'un tableau d'objet **JS** et inclure un **Waveform**
@@ -85,7 +89,7 @@ function renderMusics(template) {
 
 ### Wavesurfer
 
-Vous allez utiliser la libraire JS **Wavesurfcer** accessible :via ce lien : https://wavesurfer.xyz/
+Vous allez utiliser la libraire JS **Wavesurfer** accessible :via ce lien : https://wavesurfer.xyz/
 
 Avous de vous documenter pour l"utiliser et essayer d'avoir ce rendu dans une div fixé en bas de la page
 

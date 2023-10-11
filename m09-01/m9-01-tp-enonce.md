@@ -6,13 +6,13 @@ TP du module 09 – Design responsive plus complexe
 
 ## Enonce
 
-Creer une page **Piste audios** pour ressembler à cette page:
+Creer une page **Piste audios** pour ressembler à ca:
 
 <p align="center">
   <img src="screenshot_01.png" alt="Screenshot">
 </p>
 
-Pour le moment il n'y pas encore de **son**, cette fonctionnaliée est reservé pour le TP Suivant.
+Pour le moment il n'y pas encore de **son**, cette fonctionnalité est reservée pour le TP Suivant.
 
 Il est question ici d'uniquement de **Design**
 
