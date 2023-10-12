@@ -16,8 +16,14 @@ L’objectif est de reproduire cet écran d'inscription en HTML/CSS
   <img src="screenshot_01.png" alt="Screenshot">
 </p>
 
+Et cet écran **Récupération de mot de passe**
 
-Pour la redirection sur la page d'inscription, elle aura lieu grace à ce lien hypertexte :
+<p align="center">
+  <img src="screenshot_06.png" alt="Screenshot">
+</p>
+
+
+Pour la redirection sur la page d'**inscription** et **Récupération de mot de passe**, elle aura lieu grace à ce lien hypertexte :
 
 <p align="center">
   <img src="screenshot_02.png" alt="Screenshot">
